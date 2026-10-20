@@ -1,0 +1,2 @@
+{"ts":"2026-10-21T13:15:00.000Z","service":"orders","version":"v3.8.1","change":"bump logging library"}
+{"ts":"2026-10-21T14:02:00.000Z","service":"payments","version":"v2.14.0","change":"reduced DB pool size 50 -> 5"}

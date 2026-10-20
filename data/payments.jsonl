@@ -1,0 +1,960 @@
+{"ts":"2026-10-21T13:00:06.462Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e98f8c0b588f7195","latency_ms":30}
+{"ts":"2026-10-21T13:00:12.132Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d1a4dca0295e46c3","latency_ms":28}
+{"ts":"2026-10-21T13:00:14.987Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":50}
+{"ts":"2026-10-21T13:00:30.959Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"39b2745b5ac22ddc","latency_ms":21}
+{"ts":"2026-10-21T13:00:37.743Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0ab506d27cd3bf74","latency_ms":22}
+{"ts":"2026-10-21T13:00:38.028Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"169ac3b0b8867a32","latency_ms":30}
+{"ts":"2026-10-21T13:00:39.659Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fc9afdcac0ba7489","latency_ms":15}
+{"ts":"2026-10-21T13:00:43.084Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f5b99516a66f4100","latency_ms":13}
+{"ts":"2026-10-21T13:00:47.585Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9b666a2b719a4033","latency_ms":21}
+{"ts":"2026-10-21T13:00:48.678Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7b63125330e22418","latency_ms":23}
+{"ts":"2026-10-21T13:00:55.435Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"85016e0aefe734b7","latency_ms":21}
+{"ts":"2026-10-21T13:01:03.843Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:01:04.692Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2833df52b6e9ea61","latency_ms":27}
+{"ts":"2026-10-21T13:01:09.970Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e574d73a3aafd89d","latency_ms":22}
+{"ts":"2026-10-21T13:01:23.105Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7c7b49bcf527bb3b","latency_ms":15}
+{"ts":"2026-10-21T13:01:31.783Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a8feb717bbaeb67c","latency_ms":25}
+{"ts":"2026-10-21T13:01:39.519Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bb4fd0e7507942fe","latency_ms":25}
+{"ts":"2026-10-21T13:01:41.596Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"16a60b38698a50d3","latency_ms":14}
+{"ts":"2026-10-21T13:01:48.073Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"872a75f46d9b4ebb","latency_ms":28}
+{"ts":"2026-10-21T13:01:50.259Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1d4fd4364e4341b2","latency_ms":18}
+{"ts":"2026-10-21T13:01:50.865Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f86acd4f9d0bf0da","latency_ms":16}
+{"ts":"2026-10-21T13:01:51.602Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"984b718dc0f277e2","latency_ms":14}
+{"ts":"2026-10-21T13:01:54.632Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"eb33c6a6fc467213","latency_ms":15}
+{"ts":"2026-10-21T13:02:00.512Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9f00a0cb219f80fb","latency_ms":12}
+{"ts":"2026-10-21T13:02:13.757Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"232ff2c11732c33f","latency_ms":28}
+{"ts":"2026-10-21T13:02:14.982Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:02:17.493Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e6ef8cb6952354c1","latency_ms":26}
+{"ts":"2026-10-21T13:02:28.788Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"16e40efcbe48f029","latency_ms":24}
+{"ts":"2026-10-21T13:02:30.595Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"721eaa0bb948e025","latency_ms":23}
+{"ts":"2026-10-21T13:02:34.291Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3cbd28e14fcf6789","latency_ms":17}
+{"ts":"2026-10-21T13:02:36.231Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"abc60b71eb1601ee","latency_ms":15}
+{"ts":"2026-10-21T13:02:44.082Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"89962a47f7315466","latency_ms":15}
+{"ts":"2026-10-21T13:02:52.015Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b4d51a36ae817ef6","latency_ms":12}
+{"ts":"2026-10-21T13:03:04.801Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:03:13.851Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4c5a9c1b35289891","latency_ms":17}
+{"ts":"2026-10-21T13:03:21.877Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1665a1ca639c4090","latency_ms":18}
+{"ts":"2026-10-21T13:03:43.582Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f34341ecf3901a1c","latency_ms":12}
+{"ts":"2026-10-21T13:03:45.788Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"50ccc1c35a399d17","latency_ms":30}
+{"ts":"2026-10-21T13:03:47.727Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1e6969af73988855","latency_ms":16}
+{"ts":"2026-10-21T13:03:49.595Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f3c897bfebdecde5","latency_ms":13}
+{"ts":"2026-10-21T13:03:49.939Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"aaf9d8a5a2b1ef0b","latency_ms":23}
+{"ts":"2026-10-21T13:03:52.622Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"480f34928405e8bd","latency_ms":27}
+{"ts":"2026-10-21T13:03:56.192Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9da4444671cd25fc","latency_ms":25}
+{"ts":"2026-10-21T13:04:00.748Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"63ce400cf774922e","latency_ms":22}
+{"ts":"2026-10-21T13:04:12.229Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"76ecf80602234b08","latency_ms":21}
+{"ts":"2026-10-21T13:04:16.268Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dde745774bcb78d2","latency_ms":15}
+{"ts":"2026-10-21T13:04:21.597Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:04:21.616Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5aa5cbf76d914215","latency_ms":13}
+{"ts":"2026-10-21T13:04:21.824Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a523ea2028832c6a","latency_ms":22}
+{"ts":"2026-10-21T13:04:22.400Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5d9115606ea65a8d","latency_ms":16}
+{"ts":"2026-10-21T13:04:46.202Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7965da0e3516573d","latency_ms":24}
+{"ts":"2026-10-21T13:04:48.369Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a023464c5595d140","latency_ms":30}
+{"ts":"2026-10-21T13:04:50.028Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f8f52ba7ba3b1090","latency_ms":21}
+{"ts":"2026-10-21T13:04:56.160Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1125da05293f8a4b","latency_ms":28}
+{"ts":"2026-10-21T13:05:02.740Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"61afe22e4f7e211d","latency_ms":12}
+{"ts":"2026-10-21T13:05:10.075Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e5fb19545449cb6d","latency_ms":25}
+{"ts":"2026-10-21T13:05:14.054Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"172f78e01dd8db51","latency_ms":12}
+{"ts":"2026-10-21T13:05:21.756Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":50}
+{"ts":"2026-10-21T13:05:27.143Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3b4ee76f5987bdcc","latency_ms":26}
+{"ts":"2026-10-21T13:05:28.396Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bb25b4635f47677e","latency_ms":20}
+{"ts":"2026-10-21T13:05:43.236Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"29799b80b548cb83","latency_ms":23}
+{"ts":"2026-10-21T13:05:46.595Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b479937a9b80a4cd","latency_ms":18}
+{"ts":"2026-10-21T13:05:51.468Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9239351d9b65cefc","latency_ms":12}
+{"ts":"2026-10-21T13:05:56.001Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ee4e9307e0dd9151","latency_ms":25}
+{"ts":"2026-10-21T13:06:02.605Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"931a798e6498b7d6","latency_ms":26}
+{"ts":"2026-10-21T13:06:09.706Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"51a481bbd22b35ef","latency_ms":22}
+{"ts":"2026-10-21T13:06:19.765Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9fc755b12381d661","latency_ms":15}
+{"ts":"2026-10-21T13:06:20.364Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4ed8cedb0a64da70","latency_ms":28}
+{"ts":"2026-10-21T13:06:24.960Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"34e8016d32698987","latency_ms":18}
+{"ts":"2026-10-21T13:06:28.291Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"28fb93cd37a7aa7d","latency_ms":16}
+{"ts":"2026-10-21T13:06:34.904Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"29f493cf51d40f7a","latency_ms":15}
+{"ts":"2026-10-21T13:06:45.529Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":14,"pool_size":50}
+{"ts":"2026-10-21T13:06:53.537Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bc366b9e48a65b0b","latency_ms":26}
+{"ts":"2026-10-21T13:06:55.263Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"55863ca767829b91","latency_ms":20}
+{"ts":"2026-10-21T13:07:01.746Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2742dd085ad50416","latency_ms":24}
+{"ts":"2026-10-21T13:07:05.698Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e982ea6010465028","latency_ms":12}
+{"ts":"2026-10-21T13:07:06.838Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:07:12.059Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"97ea1dee3efb9762","latency_ms":23}
+{"ts":"2026-10-21T13:07:15.505Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c5410aa6abdccee7","latency_ms":15}
+{"ts":"2026-10-21T13:07:17.802Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b04b32a8d0d570a2","latency_ms":30}
+{"ts":"2026-10-21T13:07:37.690Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fafaec3fabcebd9d","latency_ms":12}
+{"ts":"2026-10-21T13:07:43.844Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8fd898396d4f6732","latency_ms":17}
+{"ts":"2026-10-21T13:07:46.163Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"98355b99d8f779a0","latency_ms":13}
+{"ts":"2026-10-21T13:07:47.456Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"eb6019c5c8ea91b9","latency_ms":23}
+{"ts":"2026-10-21T13:07:56.023Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5151828bc4b5e86e","latency_ms":19}
+{"ts":"2026-10-21T13:08:02.061Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1b6cf25c060d80a2","latency_ms":26}
+{"ts":"2026-10-21T13:08:13.755Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c4074ed8feffadc4","latency_ms":25}
+{"ts":"2026-10-21T13:08:32.970Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"78ec182f196eb2d3","latency_ms":48}
+{"ts":"2026-10-21T13:08:33.783Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ac5431df2a55915a","latency_ms":22}
+{"ts":"2026-10-21T13:08:38.599Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c419cdb9761e279f","latency_ms":23}
+{"ts":"2026-10-21T13:08:38.865Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"00d2481d1684bc52","latency_ms":14}
+{"ts":"2026-10-21T13:08:46.766Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6dd34656f71b8f39","latency_ms":14}
+{"ts":"2026-10-21T13:08:46.960Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"89d9d240b7a29657","latency_ms":17}
+{"ts":"2026-10-21T13:08:47.380Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d6c759110924714a","latency_ms":28}
+{"ts":"2026-10-21T13:08:50.052Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:08:53.863Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5d158c9113a1ea05","latency_ms":12}
+{"ts":"2026-10-21T13:08:57.709Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7a62cae75a9f40d4","latency_ms":21}
+{"ts":"2026-10-21T13:08:58.529Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"53b8286fd7136798","latency_ms":28}
+{"ts":"2026-10-21T13:09:02.901Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:09:09.397Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f5b763d783fe6eb3","latency_ms":20}
+{"ts":"2026-10-21T13:09:13.575Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ca5bee6a5275b0fe","latency_ms":26}
+{"ts":"2026-10-21T13:09:18.653Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d61681406f1df6a2","latency_ms":14}
+{"ts":"2026-10-21T13:09:28.250Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"747acbea998abdc2","latency_ms":24}
+{"ts":"2026-10-21T13:09:30.169Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e259ff763da97549","latency_ms":29}
+{"ts":"2026-10-21T13:09:31.447Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a1848042a9887e8e","latency_ms":27}
+{"ts":"2026-10-21T13:09:35.079Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7e0aa747a94aa518","latency_ms":13}
+{"ts":"2026-10-21T13:09:46.066Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"283a189dd143ad46","latency_ms":25}
+{"ts":"2026-10-21T13:09:51.542Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1d5aef740f069eb8","latency_ms":14}
+{"ts":"2026-10-21T13:09:54.539Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9d8c5d21c31e654e","latency_ms":27}
+{"ts":"2026-10-21T13:10:03.746Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"26c702feb718cad4","latency_ms":29}
+{"ts":"2026-10-21T13:10:11.976Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f998f13773d5f179","latency_ms":22}
+{"ts":"2026-10-21T13:10:20.296Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"53e72fe23c345f3b","latency_ms":26}
+{"ts":"2026-10-21T13:10:27.724Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7b11a7166354e8d2","latency_ms":14}
+{"ts":"2026-10-21T13:10:35.610Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9a786d041db38d42","latency_ms":13}
+{"ts":"2026-10-21T13:10:43.168Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2fec0cb43ff928cf","latency_ms":13}
+{"ts":"2026-10-21T13:10:48.644Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":13,"pool_size":50}
+{"ts":"2026-10-21T13:10:49.691Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"675a698efcd50557","latency_ms":17}
+{"ts":"2026-10-21T13:10:50.809Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e1d2e12f834a1603","latency_ms":28}
+{"ts":"2026-10-21T13:10:58.978Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d163ffb3571aa70f","latency_ms":18}
+{"ts":"2026-10-21T13:11:01.736Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"31e2d0f93281b167","latency_ms":27}
+{"ts":"2026-10-21T13:11:02.119Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"daa62a52466c088c","latency_ms":26}
+{"ts":"2026-10-21T13:11:10.406Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9e6a03071bb4ee07","latency_ms":21}
+{"ts":"2026-10-21T13:11:17.517Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"096a040f5968c697","latency_ms":20}
+{"ts":"2026-10-21T13:11:21.314Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d4a0b529f40ee644","latency_ms":17}
+{"ts":"2026-10-21T13:11:22.114Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:11:41.618Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7e5abb93902586c6","latency_ms":17}
+{"ts":"2026-10-21T13:11:44.892Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2489fc8ff78084f6","latency_ms":21}
+{"ts":"2026-10-21T13:11:52.529Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6bd0f28564b2149d","latency_ms":29}
+{"ts":"2026-10-21T13:11:57.567Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6e6740929547c60e","latency_ms":26}
+{"ts":"2026-10-21T13:12:17.617Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"02c3ce69c1f18569","latency_ms":18}
+{"ts":"2026-10-21T13:12:19.963Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8ce01d72789dc42d","latency_ms":15}
+{"ts":"2026-10-21T13:12:21.563Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d42e56316f067b30","latency_ms":24}
+{"ts":"2026-10-21T13:12:28.799Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4ee0c1efda5d2ab4","latency_ms":28}
+{"ts":"2026-10-21T13:12:31.919Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ca2ce9a95d6d5752","latency_ms":15}
+{"ts":"2026-10-21T13:12:33.819Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7e91cf9c5036a6b1","latency_ms":22}
+{"ts":"2026-10-21T13:12:34.068Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b4a13f0ce106c2a1","latency_ms":22}
+{"ts":"2026-10-21T13:12:39.403Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b865655ff9ce9e1d","latency_ms":23}
+{"ts":"2026-10-21T13:12:54.159Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:12:56.207Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9729dd0baca9a9a9","latency_ms":28}
+{"ts":"2026-10-21T13:13:00.717Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ada6f6872d402c3a","latency_ms":24}
+{"ts":"2026-10-21T13:13:09.402Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a5a6119df6360f07","latency_ms":15}
+{"ts":"2026-10-21T13:13:09.803Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b2f7bae2686b06f9","latency_ms":29}
+{"ts":"2026-10-21T13:13:12.149Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":8,"pool_size":50}
+{"ts":"2026-10-21T13:13:15.210Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9cb0dec4eb348d12","latency_ms":13}
+{"ts":"2026-10-21T13:13:16.546Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"42842be5253f17b8","latency_ms":30}
+{"ts":"2026-10-21T13:13:25.175Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fbe6c3ccbeb451eb","latency_ms":21}
+{"ts":"2026-10-21T13:13:28.314Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"88cd176b7a4a4de9","latency_ms":14}
+{"ts":"2026-10-21T13:13:39.460Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1e2ac961a0eb3901","latency_ms":13}
+{"ts":"2026-10-21T13:13:44.021Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"44fa8e48960005a9","latency_ms":18}
+{"ts":"2026-10-21T13:13:49.052Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e04325f1277896a2","latency_ms":22}
+{"ts":"2026-10-21T13:14:06.012Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9680e074e0a9d73b","latency_ms":16}
+{"ts":"2026-10-21T13:14:08.799Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":13,"pool_size":50}
+{"ts":"2026-10-21T13:14:17.128Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3ce7df1874abc136","latency_ms":25}
+{"ts":"2026-10-21T13:14:22.156Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9a8520b0083ca36a","latency_ms":24}
+{"ts":"2026-10-21T13:14:22.471Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fb146d619bea1f31","latency_ms":29}
+{"ts":"2026-10-21T13:14:31.598Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"11e86a3b7fc33b66","latency_ms":27}
+{"ts":"2026-10-21T13:14:37.017Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"636e387c5d61db36","latency_ms":21}
+{"ts":"2026-10-21T13:14:44.045Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0e6f357960eac63b","latency_ms":13}
+{"ts":"2026-10-21T13:14:44.857Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"93e4fac1064ecd15","latency_ms":27}
+{"ts":"2026-10-21T13:14:52.907Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8cc559f78f8db013","latency_ms":13}
+{"ts":"2026-10-21T13:14:56.951Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c5d45489b13619fc","latency_ms":23}
+{"ts":"2026-10-21T13:15:08.995Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4f6ecd091d77edbf","latency_ms":28}
+{"ts":"2026-10-21T13:15:09.570Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bab3dc63bb95beda","latency_ms":29}
+{"ts":"2026-10-21T13:15:18.152Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9a70d2625d2efd3d","latency_ms":12}
+{"ts":"2026-10-21T13:15:20.620Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"207b3d05649e2bb2","latency_ms":27}
+{"ts":"2026-10-21T13:15:21.039Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:15:28.769Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"211e09ddddf0cba9","latency_ms":22}
+{"ts":"2026-10-21T13:15:31.153Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9aa07da9d8283ec3","latency_ms":28}
+{"ts":"2026-10-21T13:15:43.612Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b1a62ccf0376e422","latency_ms":27}
+{"ts":"2026-10-21T13:15:43.857Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dd93033b6d395509","latency_ms":26}
+{"ts":"2026-10-21T13:15:52.845Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7ddb7167d97e3e6f","latency_ms":14}
+{"ts":"2026-10-21T13:15:53.012Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2632af8f15bdfa3f","latency_ms":15}
+{"ts":"2026-10-21T13:16:03.412Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"42334d944f62eb15","latency_ms":30}
+{"ts":"2026-10-21T13:16:05.117Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f348865720f635bf","latency_ms":28}
+{"ts":"2026-10-21T13:16:07.561Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":14,"pool_size":50}
+{"ts":"2026-10-21T13:16:09.562Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6edf84edd7a2e0e8","latency_ms":24}
+{"ts":"2026-10-21T13:16:12.119Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"47db7679320069a6","latency_ms":26}
+{"ts":"2026-10-21T13:16:16.726Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d5b961687928ab34","latency_ms":25}
+{"ts":"2026-10-21T13:16:22.046Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"da328f67dc443646","latency_ms":19}
+{"ts":"2026-10-21T13:16:23.420Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4bd78c5bda9ebf94","latency_ms":20}
+{"ts":"2026-10-21T13:16:37.709Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fd0bf9c936bea2b5","latency_ms":13}
+{"ts":"2026-10-21T13:16:38.593Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b99c68bfdbff6534","latency_ms":28}
+{"ts":"2026-10-21T13:16:45.083Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"00ff948e9ffe5472","latency_ms":22}
+{"ts":"2026-10-21T13:16:45.224Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"284bf8de9ec1c741","latency_ms":30}
+{"ts":"2026-10-21T13:17:05.390Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"94c737985321798e","latency_ms":28}
+{"ts":"2026-10-21T13:17:15.773Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ee010192d4dd6a86","latency_ms":20}
+{"ts":"2026-10-21T13:17:22.645Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ed8a1eca0914a4b3","latency_ms":19}
+{"ts":"2026-10-21T13:17:28.755Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b19f7e9b7128b969","latency_ms":15}
+{"ts":"2026-10-21T13:17:31.359Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c948147340f6aac7","latency_ms":29}
+{"ts":"2026-10-21T13:17:35.833Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"040e14dac7303705","latency_ms":15}
+{"ts":"2026-10-21T13:17:36.933Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4b83cfdcbf9a67c2","latency_ms":23}
+{"ts":"2026-10-21T13:17:39.206Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2e3a9afbfed4e3a0","latency_ms":30}
+{"ts":"2026-10-21T13:17:44.838Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:17:47.541Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e6584f7d28501497","latency_ms":21}
+{"ts":"2026-10-21T13:17:55.888Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7e94f0d808b73d43","latency_ms":19}
+{"ts":"2026-10-21T13:18:11.198Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b3425d721251a7ff","latency_ms":28}
+{"ts":"2026-10-21T13:18:13.581Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"76e36e2cc778c358","latency_ms":20}
+{"ts":"2026-10-21T13:18:14.735Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d7c1548f623d16b7","latency_ms":19}
+{"ts":"2026-10-21T13:18:28.546Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"788dccc858235c15","latency_ms":20}
+{"ts":"2026-10-21T13:18:35.754Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2f1439e4a53b13c3","latency_ms":17}
+{"ts":"2026-10-21T13:18:36.797Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b96b0cdb50098049","latency_ms":19}
+{"ts":"2026-10-21T13:18:42.698Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b9346148476f1d1d","latency_ms":16}
+{"ts":"2026-10-21T13:18:44.300Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:18:50.470Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b4aabc088f14f74e","latency_ms":15}
+{"ts":"2026-10-21T13:18:52.870Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bd37b82327779368","latency_ms":30}
+{"ts":"2026-10-21T13:19:00.320Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"4d3096eaf74d8ebf","latency_ms":54}
+{"ts":"2026-10-21T13:19:05.717Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2e7c54313ea84050","latency_ms":21}
+{"ts":"2026-10-21T13:19:08.771Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d4d858131ac1f5cf","latency_ms":12}
+{"ts":"2026-10-21T13:19:12.780Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2411130fe681c5d5","latency_ms":21}
+{"ts":"2026-10-21T13:19:24.201Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8a136b2e6f40f7e0","latency_ms":22}
+{"ts":"2026-10-21T13:19:34.720Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"81af84ff3eadce72","latency_ms":13}
+{"ts":"2026-10-21T13:19:44.822Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"71bf197703856b8f","latency_ms":30}
+{"ts":"2026-10-21T13:19:49.643Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:19:52.355Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"566d762677f77dc0","latency_ms":24}
+{"ts":"2026-10-21T13:19:52.443Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0619bc854c3a5f47","latency_ms":28}
+{"ts":"2026-10-21T13:19:54.236Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"720a55d734afd050","latency_ms":19}
+{"ts":"2026-10-21T13:20:02.463Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"63e8921d191ee98a","latency_ms":24}
+{"ts":"2026-10-21T13:20:15.126Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8beee2f955343990","latency_ms":21}
+{"ts":"2026-10-21T13:20:15.501Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"17fac29e6eb59150","latency_ms":12}
+{"ts":"2026-10-21T13:20:15.848Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d882279322cdc00c","latency_ms":18}
+{"ts":"2026-10-21T13:20:18.165Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2d3b7e96e28df4c5","latency_ms":19}
+{"ts":"2026-10-21T13:20:20.427Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dd719986120b3e01","latency_ms":12}
+{"ts":"2026-10-21T13:20:32.445Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d1f756d95993104c","latency_ms":15}
+{"ts":"2026-10-21T13:20:34.403Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dcf13c33d568e02b","latency_ms":27}
+{"ts":"2026-10-21T13:20:39.964Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0b117b19e9f663a5","latency_ms":27}
+{"ts":"2026-10-21T13:20:53.181Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"01aa526fb30e8c81","latency_ms":16}
+{"ts":"2026-10-21T13:20:55.963Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:21:04.946Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f64c39a985521acb","latency_ms":13}
+{"ts":"2026-10-21T13:21:05.428Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6d4b90083fc207a4","latency_ms":24}
+{"ts":"2026-10-21T13:21:10.523Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"210446ab06380a84","latency_ms":18}
+{"ts":"2026-10-21T13:21:11.959Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e2594c4df6b62a4b","latency_ms":14}
+{"ts":"2026-10-21T13:21:14.593Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"792f5260025e150a","latency_ms":27}
+{"ts":"2026-10-21T13:21:15.372Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":13,"pool_size":50}
+{"ts":"2026-10-21T13:21:26.221Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"44f02c5e8f841a57","latency_ms":28}
+{"ts":"2026-10-21T13:21:36.720Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"20d64eb770e22875","latency_ms":15}
+{"ts":"2026-10-21T13:21:47.523Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c0c6e5fc60c52b7b","latency_ms":14}
+{"ts":"2026-10-21T13:21:49.518Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0f10daa274616fad","latency_ms":23}
+{"ts":"2026-10-21T13:21:51.913Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1ae01ec1a7c90bae","latency_ms":25}
+{"ts":"2026-10-21T13:21:57.337Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"22db5fa6bcf81956","latency_ms":24}
+{"ts":"2026-10-21T13:22:01.717Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"10ec1bfbcd77932c","latency_ms":22}
+{"ts":"2026-10-21T13:22:09.508Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d3b15a0cbc5e55d0","latency_ms":20}
+{"ts":"2026-10-21T13:22:11.693Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4751228fd511ab05","latency_ms":14}
+{"ts":"2026-10-21T13:22:17.049Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":14,"pool_size":50}
+{"ts":"2026-10-21T13:22:21.975Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"338e76cc895d50a4","latency_ms":30}
+{"ts":"2026-10-21T13:22:27.418Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e7827fb645f36f5d","latency_ms":28}
+{"ts":"2026-10-21T13:22:31.181Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"46c3da59fe269fad","latency_ms":25}
+{"ts":"2026-10-21T13:22:31.925Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d06365b313fd0142","latency_ms":28}
+{"ts":"2026-10-21T13:22:38.975Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d8477609331de6cb","latency_ms":20}
+{"ts":"2026-10-21T13:22:41.228Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9f1d5df4492bea2b","latency_ms":18}
+{"ts":"2026-10-21T13:23:14.867Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"81afb5e3ce38b3d6","latency_ms":29}
+{"ts":"2026-10-21T13:23:15.041Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"56f832ef462e2d8c","latency_ms":24}
+{"ts":"2026-10-21T13:23:17.207Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cbcd202c156d1dc1","latency_ms":25}
+{"ts":"2026-10-21T13:23:19.237Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"81568feccd3c6749","latency_ms":22}
+{"ts":"2026-10-21T13:23:20.546Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:23:36.174Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"550a0ad9093b58a3","latency_ms":22}
+{"ts":"2026-10-21T13:23:39.137Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"57b5450553f9fe69","latency_ms":23}
+{"ts":"2026-10-21T13:23:41.210Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9fa412c748a76726","latency_ms":21}
+{"ts":"2026-10-21T13:23:45.073Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ca4939fac20dd684","latency_ms":26}
+{"ts":"2026-10-21T13:23:46.088Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1ba94d573bbacc26","latency_ms":15}
+{"ts":"2026-10-21T13:23:46.928Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c2623a8cb871e16c","latency_ms":12}
+{"ts":"2026-10-21T13:23:53.427Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5c925014a8187130","latency_ms":20}
+{"ts":"2026-10-21T13:24:00.987Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f6da802e204163cc","latency_ms":22}
+{"ts":"2026-10-21T13:24:11.491Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"38d6e46fd5135313","latency_ms":18}
+{"ts":"2026-10-21T13:24:12.632Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"24661b534aef5848","latency_ms":17}
+{"ts":"2026-10-21T13:24:28.428Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"933757e0f071701b","latency_ms":30}
+{"ts":"2026-10-21T13:24:32.652Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"83ec04355ec36127","latency_ms":27}
+{"ts":"2026-10-21T13:24:36.035Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"eed5adf34b0b2658","latency_ms":17}
+{"ts":"2026-10-21T13:24:40.024Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3f84a749e0b54c98","latency_ms":12}
+{"ts":"2026-10-21T13:24:41.931Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"883e0f866ba30e51","latency_ms":30}
+{"ts":"2026-10-21T13:24:43.107Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:24:52.625Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e96db8cb18eec315","latency_ms":12}
+{"ts":"2026-10-21T13:24:59.224Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e969706837e4d1d3","latency_ms":20}
+{"ts":"2026-10-21T13:25:11.336Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6e34354dc4800623","latency_ms":12}
+{"ts":"2026-10-21T13:25:12.922Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5106fc145e92c2dc","latency_ms":17}
+{"ts":"2026-10-21T13:25:17.856Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4eb9fe2b358204c3","latency_ms":19}
+{"ts":"2026-10-21T13:25:22.708Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c51eea081db65b36","latency_ms":13}
+{"ts":"2026-10-21T13:25:28.530Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"eebf407a0faa1c69","latency_ms":23}
+{"ts":"2026-10-21T13:25:29.987Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7aa6f84b8181126f","latency_ms":13}
+{"ts":"2026-10-21T13:25:39.230Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1f5a4dfdb94f1bcc","latency_ms":29}
+{"ts":"2026-10-21T13:25:43.363Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5eac1c7968ce0954","latency_ms":27}
+{"ts":"2026-10-21T13:25:45.127Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":8,"pool_size":50}
+{"ts":"2026-10-21T13:25:50.543Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"327335746c4e880b","latency_ms":18}
+{"ts":"2026-10-21T13:25:53.395Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6578cdde42b886a0","latency_ms":29}
+{"ts":"2026-10-21T13:25:53.681Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b723306fcac2c5a0","latency_ms":16}
+{"ts":"2026-10-21T13:26:02.368Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"364ba20fa8cb07e6","latency_ms":18}
+{"ts":"2026-10-21T13:26:03.944Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:26:05.230Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7ebdb51e190cf9f2","latency_ms":20}
+{"ts":"2026-10-21T13:26:12.734Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2f8caafd83651391","latency_ms":18}
+{"ts":"2026-10-21T13:26:22.655Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4ff903bda2288630","latency_ms":29}
+{"ts":"2026-10-21T13:26:29.753Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e785169c61a27e03","latency_ms":26}
+{"ts":"2026-10-21T13:26:32.300Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f614ed9475bea3d3","latency_ms":20}
+{"ts":"2026-10-21T13:26:37.133Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2cd958002ad9ab16","latency_ms":29}
+{"ts":"2026-10-21T13:26:46.495Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e860beb3ab4775d6","latency_ms":28}
+{"ts":"2026-10-21T13:26:48.131Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"25a4420ea4e4a3aa","latency_ms":22}
+{"ts":"2026-10-21T13:26:50.672Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7a138a2e2ea2b57f","latency_ms":20}
+{"ts":"2026-10-21T13:26:58.076Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b2e7a23c7dbba5a7","latency_ms":16}
+{"ts":"2026-10-21T13:27:16.617Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:27:18.264Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"34ce77f4bc47b673","latency_ms":30}
+{"ts":"2026-10-21T13:27:19.617Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3c7cb860930a436f","latency_ms":24}
+{"ts":"2026-10-21T13:27:32.838Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3b7c533c0a696e5e","latency_ms":15}
+{"ts":"2026-10-21T13:27:34.628Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"89bc09cd3ba246e6","latency_ms":21}
+{"ts":"2026-10-21T13:27:35.191Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d85c89fdc8b87d46","latency_ms":13}
+{"ts":"2026-10-21T13:27:40.455Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"41ac82f530da5607","latency_ms":13}
+{"ts":"2026-10-21T13:27:51.478Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d739f80a5da122dc","latency_ms":13}
+{"ts":"2026-10-21T13:27:51.538Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b42d9406ed30c95d","latency_ms":27}
+{"ts":"2026-10-21T13:27:55.471Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fe6c9b4dc9191382","latency_ms":29}
+{"ts":"2026-10-21T13:28:05.286Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"39831c752b3cc5a3","latency_ms":16}
+{"ts":"2026-10-21T13:28:06.897Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:28:13.503Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"223e99b9f5c0dc47","latency_ms":16}
+{"ts":"2026-10-21T13:28:17.413Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"012afdd92faba17d","latency_ms":18}
+{"ts":"2026-10-21T13:28:21.473Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"85f2d432182c9139","latency_ms":14}
+{"ts":"2026-10-21T13:28:33.791Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1292d04e749af8ff","latency_ms":27}
+{"ts":"2026-10-21T13:28:40.008Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"850dda7556554e29","latency_ms":12}
+{"ts":"2026-10-21T13:28:51.024Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"013923e69d42816c","latency_ms":20}
+{"ts":"2026-10-21T13:28:53.007Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f3ceb7e576fe0582","latency_ms":19}
+{"ts":"2026-10-21T13:28:54.560Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"33ecb332e2cc8276","latency_ms":17}
+{"ts":"2026-10-21T13:29:03.149Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"539c8aaab8fe67ff","latency_ms":12}
+{"ts":"2026-10-21T13:29:05.664Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"33b86245a57ac802","latency_ms":27}
+{"ts":"2026-10-21T13:29:13.047Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0d0d2cacc8a2ae06","latency_ms":15}
+{"ts":"2026-10-21T13:29:20.461Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6e505bf35c6cd887","latency_ms":25}
+{"ts":"2026-10-21T13:29:46.624Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:29:50.389Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cf3da693f306187d","latency_ms":18}
+{"ts":"2026-10-21T13:29:50.549Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a7658be5ee40b7e4","latency_ms":19}
+{"ts":"2026-10-21T13:29:51.085Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"71a241029461c390","latency_ms":30}
+{"ts":"2026-10-21T13:29:55.664Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f7c03212eda3e6df","latency_ms":23}
+{"ts":"2026-10-21T13:29:56.207Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5db00586db13e50b","latency_ms":27}
+{"ts":"2026-10-21T13:29:56.373Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"65a9a66d8917cc52","latency_ms":17}
+{"ts":"2026-10-21T13:30:01.864Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ad09d2b9805bb9cf","latency_ms":28}
+{"ts":"2026-10-21T13:30:06.183Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5f26de8ca06c1fc9","latency_ms":26}
+{"ts":"2026-10-21T13:30:07.264Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ec7a0c6f62603daa","latency_ms":27}
+{"ts":"2026-10-21T13:30:12.794Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"19d7519a64e99274","latency_ms":20}
+{"ts":"2026-10-21T13:30:13.681Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"eefc8555f698f23b","latency_ms":24}
+{"ts":"2026-10-21T13:30:14.112Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"89a55417cda2e3e6","latency_ms":20}
+{"ts":"2026-10-21T13:30:18.859Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a27de771d7ac2742","latency_ms":12}
+{"ts":"2026-10-21T13:30:19.159Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5707817ff91d2c1d","latency_ms":16}
+{"ts":"2026-10-21T13:30:19.403Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e30d64ae0adacbc5","latency_ms":27}
+{"ts":"2026-10-21T13:30:24.809Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:30:25.885Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8b16fa01041f141e","latency_ms":30}
+{"ts":"2026-10-21T13:30:34.550Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0f1983d90809c0b7","latency_ms":25}
+{"ts":"2026-10-21T13:31:02.028Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9514e78a59f70151","latency_ms":30}
+{"ts":"2026-10-21T13:31:22.961Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e2b8685dd5712380","latency_ms":21}
+{"ts":"2026-10-21T13:31:28.412Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:31:29.290Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3e982e59afb5dc8f","latency_ms":16}
+{"ts":"2026-10-21T13:31:33.887Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6c09cce3d7966dcd","latency_ms":28}
+{"ts":"2026-10-21T13:31:42.527Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e86ed05f05593b71","latency_ms":14}
+{"ts":"2026-10-21T13:31:46.804Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"27b51f27282bb31f","latency_ms":24}
+{"ts":"2026-10-21T13:31:48.961Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a4469bf15792dc5f","latency_ms":17}
+{"ts":"2026-10-21T13:31:50.289Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ccfedd88e3a5a9c4","latency_ms":16}
+{"ts":"2026-10-21T13:31:54.323Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5642e310b3f76072","latency_ms":12}
+{"ts":"2026-10-21T13:32:02.041Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c652912ea02bc2e3","latency_ms":20}
+{"ts":"2026-10-21T13:32:08.400Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":8,"pool_size":50}
+{"ts":"2026-10-21T13:32:12.480Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f5101b3b5dbd1562","latency_ms":30}
+{"ts":"2026-10-21T13:32:12.815Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"10b9c6e7dd585509","latency_ms":26}
+{"ts":"2026-10-21T13:32:19.916Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"84d4edabd83301bf","latency_ms":21}
+{"ts":"2026-10-21T13:32:21.646Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"476f07b24dd7341a","latency_ms":30}
+{"ts":"2026-10-21T13:32:29.462Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"77a8661f2371aa96","latency_ms":27}
+{"ts":"2026-10-21T13:32:37.616Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"99aabf3841b3a19d","latency_ms":13}
+{"ts":"2026-10-21T13:32:41.694Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d6067129ee83954f","latency_ms":29}
+{"ts":"2026-10-21T13:32:43.975Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"57d48a533882ee20","latency_ms":23}
+{"ts":"2026-10-21T13:32:44.379Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3e3351c28060ce51","latency_ms":18}
+{"ts":"2026-10-21T13:32:54.795Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"520212bbd13e9e33","latency_ms":15}
+{"ts":"2026-10-21T13:33:06.410Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:33:06.975Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"de027a6cd3604d1e","latency_ms":24}
+{"ts":"2026-10-21T13:33:13.348Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ff2f4e4754a22263","latency_ms":19}
+{"ts":"2026-10-21T13:33:15.800Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6499e4807faaf898","latency_ms":22}
+{"ts":"2026-10-21T13:33:15.859Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9ddc1933ad886a55","latency_ms":22}
+{"ts":"2026-10-21T13:33:20.434Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"00c07cd9a823e873","latency_ms":23}
+{"ts":"2026-10-21T13:33:30.797Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fbd6783be37aa26b","latency_ms":23}
+{"ts":"2026-10-21T13:33:40.003Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"13723cafe0c47aa0","latency_ms":28}
+{"ts":"2026-10-21T13:33:48.462Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"995033e0f57b7035","latency_ms":12}
+{"ts":"2026-10-21T13:33:51.035Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0f4fbfbbf3c55b58","latency_ms":27}
+{"ts":"2026-10-21T13:33:51.746Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b24f8c906384cfb8","latency_ms":22}
+{"ts":"2026-10-21T13:34:10.483Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"a9dc647a301e45f7","latency_ms":45}
+{"ts":"2026-10-21T13:34:11.196Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ed487a8792390785","latency_ms":29}
+{"ts":"2026-10-21T13:34:15.531Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c0df5a05edd0c7d9","latency_ms":19}
+{"ts":"2026-10-21T13:34:19.495Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":13,"pool_size":50}
+{"ts":"2026-10-21T13:34:25.537Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"93c56e8766bf94a5","latency_ms":26}
+{"ts":"2026-10-21T13:34:28.788Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4f21a81de803364c","latency_ms":19}
+{"ts":"2026-10-21T13:34:33.461Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d04bfc4b08751b41","latency_ms":13}
+{"ts":"2026-10-21T13:34:36.073Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"70d8360ed052448a","latency_ms":22}
+{"ts":"2026-10-21T13:34:39.098Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"db662d1b5433db5a","latency_ms":19}
+{"ts":"2026-10-21T13:34:45.791Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4b572897a4134812","latency_ms":22}
+{"ts":"2026-10-21T13:34:51.163Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cf634a0d2bcb0255","latency_ms":18}
+{"ts":"2026-10-21T13:34:53.598Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a0831fad214d6cec","latency_ms":24}
+{"ts":"2026-10-21T13:34:56.596Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"76e281cdb65bf61d","latency_ms":14}
+{"ts":"2026-10-21T13:35:04.423Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b9e080efa22ac1cf","latency_ms":25}
+{"ts":"2026-10-21T13:35:13.934Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5d1ecbfb64582069","latency_ms":27}
+{"ts":"2026-10-21T13:35:30.260Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5ef21de3e1ac440c","latency_ms":20}
+{"ts":"2026-10-21T13:35:31.335Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a06920f82645aac2","latency_ms":25}
+{"ts":"2026-10-21T13:35:33.734Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9935ee0b33c53b8a","latency_ms":27}
+{"ts":"2026-10-21T13:35:34.568Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:35:39.016Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c6e2f35c3aaf150b","latency_ms":25}
+{"ts":"2026-10-21T13:35:48.132Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3f32a31df1c878b9","latency_ms":15}
+{"ts":"2026-10-21T13:35:50.326Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"62a209b188aa2082","latency_ms":22}
+{"ts":"2026-10-21T13:35:50.695Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5aa39d16a3c7ae53","latency_ms":20}
+{"ts":"2026-10-21T13:35:59.788Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"82156b241129f05f","latency_ms":27}
+{"ts":"2026-10-21T13:36:02.872Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"225ef1a71944adc3","latency_ms":14}
+{"ts":"2026-10-21T13:36:03.278Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"69eefbc61dfa96e7","latency_ms":12}
+{"ts":"2026-10-21T13:36:06.737Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d65a6dcb1bbe826e","latency_ms":19}
+{"ts":"2026-10-21T13:36:08.184Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"287cca30a4d42ea3","latency_ms":17}
+{"ts":"2026-10-21T13:36:11.256Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:36:17.365Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3c83aa0bcb383b65","latency_ms":27}
+{"ts":"2026-10-21T13:36:24.389Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f38b085a53a936ef","latency_ms":24}
+{"ts":"2026-10-21T13:36:27.053Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"15f24d8a37d61d7f","latency_ms":20}
+{"ts":"2026-10-21T13:36:35.071Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"06de1ac8ab66ef2a","latency_ms":25}
+{"ts":"2026-10-21T13:36:58.426Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ed046d6b721d3adf","latency_ms":19}
+{"ts":"2026-10-21T13:36:59.901Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0fbf7189c4a88679","latency_ms":21}
+{"ts":"2026-10-21T13:36:59.961Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ca354b20287780ef","latency_ms":16}
+{"ts":"2026-10-21T13:37:00.795Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3115e48b4e2878f2","latency_ms":30}
+{"ts":"2026-10-21T13:37:05.976Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:37:17.847Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3b196c7de5c85262","latency_ms":12}
+{"ts":"2026-10-21T13:37:19.110Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"55a1687f63e8e407","latency_ms":13}
+{"ts":"2026-10-21T13:37:20.456Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e6264370bbaab1cb","latency_ms":27}
+{"ts":"2026-10-21T13:37:24.898Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5d9284a0af243fda","latency_ms":15}
+{"ts":"2026-10-21T13:37:35.963Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b6dd0e0410804b0a","latency_ms":29}
+{"ts":"2026-10-21T13:37:36.609Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3111fe0b9d9eecc0","latency_ms":14}
+{"ts":"2026-10-21T13:37:37.960Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ce114d8dc9c1be09","latency_ms":30}
+{"ts":"2026-10-21T13:37:43.731Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a623f8b80971cf8c","latency_ms":13}
+{"ts":"2026-10-21T13:37:45.183Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d2781bab185c1db9","latency_ms":27}
+{"ts":"2026-10-21T13:37:52.251Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"13621aafc8fa235a","latency_ms":29}
+{"ts":"2026-10-21T13:38:03.924Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4cc25416c0a624c5","latency_ms":24}
+{"ts":"2026-10-21T13:38:12.155Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":50}
+{"ts":"2026-10-21T13:38:14.290Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6a941c0afba078c0","latency_ms":26}
+{"ts":"2026-10-21T13:38:17.196Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dcd5590f9a59c84b","latency_ms":13}
+{"ts":"2026-10-21T13:38:24.398Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"40aa459e848726b0","latency_ms":21}
+{"ts":"2026-10-21T13:38:28.984Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2623292aee6a6c15","latency_ms":26}
+{"ts":"2026-10-21T13:38:44.321Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"39a356a35bf7597e","latency_ms":21}
+{"ts":"2026-10-21T13:38:48.426Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"12085e7d47983113","latency_ms":14}
+{"ts":"2026-10-21T13:38:55.057Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a78321ec70319976","latency_ms":22}
+{"ts":"2026-10-21T13:38:58.146Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a8650ab31b26ac67","latency_ms":28}
+{"ts":"2026-10-21T13:38:58.422Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c03cd5a2d7980413","latency_ms":30}
+{"ts":"2026-10-21T13:39:07.226Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"64930adc2c643e39","latency_ms":30}
+{"ts":"2026-10-21T13:39:09.649Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":13,"pool_size":50}
+{"ts":"2026-10-21T13:39:20.035Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1b08b242b395ee1d","latency_ms":14}
+{"ts":"2026-10-21T13:39:21.964Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d76181806cff0a88","latency_ms":30}
+{"ts":"2026-10-21T13:39:23.664Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a3434cce2af68253","latency_ms":29}
+{"ts":"2026-10-21T13:39:28.794Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"715db2dbe7e32250","latency_ms":29}
+{"ts":"2026-10-21T13:39:31.475Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6d4b010fb03550f1","latency_ms":17}
+{"ts":"2026-10-21T13:39:31.819Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5398e8121fa1d639","latency_ms":26}
+{"ts":"2026-10-21T13:39:48.622Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bbbf7256a458053b","latency_ms":30}
+{"ts":"2026-10-21T13:39:52.660Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3bdf4f2e666a093c","latency_ms":13}
+{"ts":"2026-10-21T13:39:53.127Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"61ef5101d671a7f4","latency_ms":19}
+{"ts":"2026-10-21T13:39:58.844Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fad088a017debacf","latency_ms":12}
+{"ts":"2026-10-21T13:40:03.374Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"273f7acacf8ff468","latency_ms":28}
+{"ts":"2026-10-21T13:40:08.597Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b8a1d30976a9e104","latency_ms":19}
+{"ts":"2026-10-21T13:40:08.848Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"705b18e41812b209","latency_ms":17}
+{"ts":"2026-10-21T13:40:15.282Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:40:15.867Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9e3ce1e231b69791","latency_ms":28}
+{"ts":"2026-10-21T13:40:21.275Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3094fce61eab82c9","latency_ms":16}
+{"ts":"2026-10-21T13:40:35.406Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1f958b8488fa172f","latency_ms":29}
+{"ts":"2026-10-21T13:40:36.617Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"49acf29f1dab7389","latency_ms":28}
+{"ts":"2026-10-21T13:40:38.842Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"11172bcd3013b930","latency_ms":24}
+{"ts":"2026-10-21T13:40:51.471Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3bb979a88e6dbff7","latency_ms":24}
+{"ts":"2026-10-21T13:41:01.220Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":10,"pool_size":50}
+{"ts":"2026-10-21T13:41:27.246Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3d2dafe78b73a1ff","latency_ms":28}
+{"ts":"2026-10-21T13:41:27.481Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4b27f57a23392045","latency_ms":17}
+{"ts":"2026-10-21T13:41:28.298Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ae51b51adb9fa91a","latency_ms":27}
+{"ts":"2026-10-21T13:41:30.352Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3172b9f9adf10a26","latency_ms":22}
+{"ts":"2026-10-21T13:41:40.951Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2f3dc27b8cdabe83","latency_ms":17}
+{"ts":"2026-10-21T13:41:47.033Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"87d97aac8c045c66","latency_ms":14}
+{"ts":"2026-10-21T13:41:57.160Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"84a27c4036c8c3b3","latency_ms":17}
+{"ts":"2026-10-21T13:41:58.442Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"16fcc4058865cd76","latency_ms":20}
+{"ts":"2026-10-21T13:41:58.921Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"530fa48f5624e5b2","latency_ms":23}
+{"ts":"2026-10-21T13:42:01.223Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"35ce65761c6dfccb","latency_ms":24}
+{"ts":"2026-10-21T13:42:09.187Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6e144b3fefc31cda","latency_ms":29}
+{"ts":"2026-10-21T13:42:12.114Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0af2911e922e3c68","latency_ms":25}
+{"ts":"2026-10-21T13:42:12.307Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8ebdee81c0d55297","latency_ms":17}
+{"ts":"2026-10-21T13:42:12.588Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"04a6a33e6e8cc115","latency_ms":13}
+{"ts":"2026-10-21T13:42:27.780Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"60a0858ba15636a3","latency_ms":13}
+{"ts":"2026-10-21T13:42:29.258Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9de64e3599ae0fcd","latency_ms":20}
+{"ts":"2026-10-21T13:42:45.802Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1f6f8cb6a047735d","latency_ms":23}
+{"ts":"2026-10-21T13:42:51.499Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":9,"pool_size":50}
+{"ts":"2026-10-21T13:42:58.591Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f2f9a25512e99579","latency_ms":14}
+{"ts":"2026-10-21T13:43:04.033Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3fed47987a1df1b5","latency_ms":24}
+{"ts":"2026-10-21T13:43:05.393Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"747f4e602d6aa720","latency_ms":17}
+{"ts":"2026-10-21T13:43:11.382Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7a093fe71b027d30","latency_ms":24}
+{"ts":"2026-10-21T13:43:12.091Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"74cf4b0e0b82ea9a","latency_ms":29}
+{"ts":"2026-10-21T13:43:29.307Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"86ca0d740103316b","latency_ms":12}
+{"ts":"2026-10-21T13:43:29.361Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bb240511c1141a53","latency_ms":20}
+{"ts":"2026-10-21T13:43:34.945Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2279574b2f0b8724","latency_ms":15}
+{"ts":"2026-10-21T13:43:53.157Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":14,"pool_size":50}
+{"ts":"2026-10-21T13:43:53.270Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0c485ff05f51f56c","latency_ms":13}
+{"ts":"2026-10-21T13:43:54.233Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"05ab9b680da303cd","latency_ms":21}
+{"ts":"2026-10-21T13:44:06.265Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ff48e157ef1f7955","latency_ms":18}
+{"ts":"2026-10-21T13:44:10.911Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"848ba0b4970200e9","latency_ms":13}
+{"ts":"2026-10-21T13:44:27.104Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2ab6a3095db2fcd0","latency_ms":26}
+{"ts":"2026-10-21T13:44:28.187Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":12,"pool_size":50}
+{"ts":"2026-10-21T13:44:29.048Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8f1f1c7a2c7d1e19","latency_ms":20}
+{"ts":"2026-10-21T13:44:31.459Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"04aace195e9dfc00","latency_ms":20}
+{"ts":"2026-10-21T13:44:32.147Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"810adc3f2dac49a7","latency_ms":25}
+{"ts":"2026-10-21T13:44:38.740Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ac768554f41e5352","latency_ms":23}
+{"ts":"2026-10-21T13:44:56.472Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"60f967d45a1ebbdf","latency_ms":27}
+{"ts":"2026-10-21T13:44:57.381Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8d17dbc299024467","latency_ms":22}
+{"ts":"2026-10-21T13:44:58.278Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"169a25093e1616b0","latency_ms":12}
+{"ts":"2026-10-21T13:45:05.739Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dbf4a37c927a7794","latency_ms":21}
+{"ts":"2026-10-21T13:45:12.782Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1557348e20343f9c","latency_ms":18}
+{"ts":"2026-10-21T13:45:15.531Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bba14bc322e21560","latency_ms":29}
+{"ts":"2026-10-21T13:45:19.060Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"12785125fc4cb707","latency_ms":21}
+{"ts":"2026-10-21T13:45:26.864Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"58cc1743021cfb98","latency_ms":29}
+{"ts":"2026-10-21T13:45:32.001Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"66843da55152fc38","latency_ms":26}
+{"ts":"2026-10-21T13:45:34.127Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"741ea45ef40918d9","latency_ms":17}
+{"ts":"2026-10-21T13:45:36.866Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:45:40.422Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"57697c57ab59a284","latency_ms":29}
+{"ts":"2026-10-21T13:45:41.739Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fbcf573b10206923","latency_ms":12}
+{"ts":"2026-10-21T13:45:45.281Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3861f0d09fdbad25","latency_ms":19}
+{"ts":"2026-10-21T13:45:51.429Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dda8b517032e0be8","latency_ms":21}
+{"ts":"2026-10-21T13:46:15.042Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"641f9aead061450a","latency_ms":14}
+{"ts":"2026-10-21T13:46:18.972Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5ad7541665577b71","latency_ms":26}
+{"ts":"2026-10-21T13:46:19.895Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1f6beb365f6f172e","latency_ms":26}
+{"ts":"2026-10-21T13:46:24.743Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f6a9fcd3fda84a31","latency_ms":14}
+{"ts":"2026-10-21T13:46:28.049Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"08304ef0a988c7e4","latency_ms":25}
+{"ts":"2026-10-21T13:46:39.862Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f28a7d558342ba35","latency_ms":16}
+{"ts":"2026-10-21T13:46:43.007Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"82a46f4ad9fa3249","latency_ms":13}
+{"ts":"2026-10-21T13:46:46.007Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"90ef50c90ae23ff4","latency_ms":14}
+{"ts":"2026-10-21T13:46:50.293Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"853aac8256dcb0d0","latency_ms":19}
+{"ts":"2026-10-21T13:46:52.357Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:46:54.240Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0d22a4741a432373","latency_ms":24}
+{"ts":"2026-10-21T13:46:58.400Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c3671828a9c2d14a","latency_ms":15}
+{"ts":"2026-10-21T13:47:05.114Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"972d5e0294136f95","latency_ms":27}
+{"ts":"2026-10-21T13:47:06.897Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ff5dd569a35bfa5a","latency_ms":30}
+{"ts":"2026-10-21T13:47:13.455Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"72d4951ba74d04ba","latency_ms":26}
+{"ts":"2026-10-21T13:47:13.601Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2caccfc9b403e55b","latency_ms":14}
+{"ts":"2026-10-21T13:47:18.960Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4726e46cb5c27c3d","latency_ms":14}
+{"ts":"2026-10-21T13:47:24.796Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"583a48d1bda28026","latency_ms":28}
+{"ts":"2026-10-21T13:47:28.508Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"32c349386f9d20a6","latency_ms":22}
+{"ts":"2026-10-21T13:47:36.287Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:47:37.853Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"17ff2ea37b8c4362","latency_ms":12}
+{"ts":"2026-10-21T13:47:53.484Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ec3dedb91b6b9e4b","latency_ms":17}
+{"ts":"2026-10-21T13:47:55.913Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d5124ee4575c3859","latency_ms":29}
+{"ts":"2026-10-21T13:48:02.630Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"43064d10066e903e","latency_ms":16}
+{"ts":"2026-10-21T13:48:06.735Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f92e574fff0be1ee","latency_ms":26}
+{"ts":"2026-10-21T13:48:07.106Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"87b2fb20adae05f1","latency_ms":16}
+{"ts":"2026-10-21T13:48:12.808Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6320543b8faa9868","latency_ms":22}
+{"ts":"2026-10-21T13:48:15.836Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":9,"pool_size":50}
+{"ts":"2026-10-21T13:48:16.784Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e7561276cb71352e","latency_ms":29}
+{"ts":"2026-10-21T13:48:21.476Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c2e4a35370941836","latency_ms":29}
+{"ts":"2026-10-21T13:48:21.742Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"273d7a53686c7bc2","latency_ms":12}
+{"ts":"2026-10-21T13:48:34.237Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"77ba37c221f33226","latency_ms":29}
+{"ts":"2026-10-21T13:48:36.840Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dff26af816dcdc27","latency_ms":29}
+{"ts":"2026-10-21T13:49:02.710Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ef1059cc1e98eeef","latency_ms":21}
+{"ts":"2026-10-21T13:49:03.178Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ab6c42226b27ee25","latency_ms":21}
+{"ts":"2026-10-21T13:49:11.252Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d60f612edf290329","latency_ms":30}
+{"ts":"2026-10-21T13:49:13.766Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d9f8a9205d7bdd96","latency_ms":21}
+{"ts":"2026-10-21T13:49:30.819Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"951f3de3f46c238e","latency_ms":20}
+{"ts":"2026-10-21T13:49:33.666Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cfd2ee9c8eb91659","latency_ms":21}
+{"ts":"2026-10-21T13:49:39.924Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":8,"pool_size":50}
+{"ts":"2026-10-21T13:49:41.066Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c73a206a797248d3","latency_ms":25}
+{"ts":"2026-10-21T13:49:42.151Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"03d6e0597e78fdab","latency_ms":12}
+{"ts":"2026-10-21T13:49:44.259Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"827b417946c92a8f","latency_ms":29}
+{"ts":"2026-10-21T13:49:49.660Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fe9dba8666f789d7","latency_ms":28}
+{"ts":"2026-10-21T13:50:02.361Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":50}
+{"ts":"2026-10-21T13:50:04.630Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7f28d632eba5ee3c","latency_ms":27}
+{"ts":"2026-10-21T13:50:05.028Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4d2b31248b810ece","latency_ms":25}
+{"ts":"2026-10-21T13:50:16.942Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"30467a7b89667d9f","latency_ms":29}
+{"ts":"2026-10-21T13:50:22.109Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c2a9e80871ccbb6b","latency_ms":23}
+{"ts":"2026-10-21T13:50:23.446Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a30f710e85928310","latency_ms":27}
+{"ts":"2026-10-21T13:50:35.703Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"353cdc2402b879f8","latency_ms":14}
+{"ts":"2026-10-21T13:50:35.955Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c4df90367edf1a35","latency_ms":27}
+{"ts":"2026-10-21T13:50:42.633Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f5906e40efe969ba","latency_ms":28}
+{"ts":"2026-10-21T13:50:53.652Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0b9d47941a3a2741","latency_ms":14}
+{"ts":"2026-10-21T13:51:08.205Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9c17f0297341a196","latency_ms":22}
+{"ts":"2026-10-21T13:51:09.102Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a9a194056f3e252e","latency_ms":20}
+{"ts":"2026-10-21T13:51:14.327Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"393cb6218026b2aa","latency_ms":26}
+{"ts":"2026-10-21T13:51:14.453Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"31518ba0de39d867","latency_ms":28}
+{"ts":"2026-10-21T13:51:17.588Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":9,"pool_size":50}
+{"ts":"2026-10-21T13:51:24.620Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8cfc61ea42417a41","latency_ms":17}
+{"ts":"2026-10-21T13:51:30.191Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6955e66f5d5a8e31","latency_ms":24}
+{"ts":"2026-10-21T13:51:36.687Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"79e2a445f34b06e2","latency_ms":25}
+{"ts":"2026-10-21T13:51:48.986Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"28d0ed76ceab34d2","latency_ms":23}
+{"ts":"2026-10-21T13:51:51.113Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8db635d5e25c94bc","latency_ms":27}
+{"ts":"2026-10-21T13:51:55.492Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8beef606350e9b83","latency_ms":20}
+{"ts":"2026-10-21T13:51:58.698Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"61962b3630a69e0b","latency_ms":24}
+{"ts":"2026-10-21T13:52:02.138Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"099445b5de5b36df","latency_ms":15}
+{"ts":"2026-10-21T13:52:20.825Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"24e7a4231117f943","latency_ms":17}
+{"ts":"2026-10-21T13:52:21.053Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a72d3f02cf810201","latency_ms":18}
+{"ts":"2026-10-21T13:52:21.162Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9dc16127e5aed8f5","latency_ms":16}
+{"ts":"2026-10-21T13:52:39.682Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:52:40.785Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ab7feebb6a3741a5","latency_ms":28}
+{"ts":"2026-10-21T13:52:42.369Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4932d506d58aa14c","latency_ms":12}
+{"ts":"2026-10-21T13:52:47.255Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"71d71a698178b063","latency_ms":21}
+{"ts":"2026-10-21T13:52:49.038Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b493fde7ce9441b4","latency_ms":26}
+{"ts":"2026-10-21T13:52:51.774Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8627c0707a54ef6b","latency_ms":29}
+{"ts":"2026-10-21T13:52:55.689Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"596b335dbf860214","latency_ms":21}
+{"ts":"2026-10-21T13:52:57.303Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"33060b28e18a24bd","latency_ms":12}
+{"ts":"2026-10-21T13:53:06.176Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0db7af63643b8839","latency_ms":26}
+{"ts":"2026-10-21T13:53:07.536Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e6c6aab8f677c77c","latency_ms":24}
+{"ts":"2026-10-21T13:53:08.395Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"115cb826e06b5b67","latency_ms":13}
+{"ts":"2026-10-21T13:53:16.600Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"263d22d0d8bdb489","latency_ms":16}
+{"ts":"2026-10-21T13:53:24.969Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9ccd1e3d33df6223","latency_ms":20}
+{"ts":"2026-10-21T13:53:38.518Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d56ec93b2814a3fc","latency_ms":21}
+{"ts":"2026-10-21T13:53:45.809Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:53:48.898Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0ea93eb82dbd5b86","latency_ms":18}
+{"ts":"2026-10-21T13:53:48.945Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"963b88e3f742d0ca","latency_ms":19}
+{"ts":"2026-10-21T13:53:55.702Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ef9699c01d47955f","latency_ms":30}
+{"ts":"2026-10-21T13:53:56.950Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"59b931726eda65e2","latency_ms":19}
+{"ts":"2026-10-21T13:54:00.586Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"17a4b8262e5d5b09","latency_ms":25}
+{"ts":"2026-10-21T13:54:02.560Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3e74e0aefe753e86","latency_ms":20}
+{"ts":"2026-10-21T13:54:11.006Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8291fb51645d20dc","latency_ms":28}
+{"ts":"2026-10-21T13:54:15.448Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1ae0f717fc8b9c2f","latency_ms":18}
+{"ts":"2026-10-21T13:54:23.280Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"920bac7c1c142371","latency_ms":24}
+{"ts":"2026-10-21T13:54:24.739Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":7,"pool_size":50}
+{"ts":"2026-10-21T13:54:42.357Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3f3f47355ff6dd0d","latency_ms":26}
+{"ts":"2026-10-21T13:54:43.100Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d1d9f6010a00c3c2","latency_ms":20}
+{"ts":"2026-10-21T13:54:46.036Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8ff72da5c88d70a1","latency_ms":12}
+{"ts":"2026-10-21T13:54:53.466Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4909e50620586070","latency_ms":19}
+{"ts":"2026-10-21T13:55:00.064Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2da8fca18cb15879","latency_ms":26}
+{"ts":"2026-10-21T13:55:10.947Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5cac110cf54cc1d6","latency_ms":13}
+{"ts":"2026-10-21T13:55:23.821Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"830adf4b54a08d11","latency_ms":25}
+{"ts":"2026-10-21T13:55:24.354Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f38e10bfc2310f81","latency_ms":20}
+{"ts":"2026-10-21T13:55:27.318Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a3ac6cb97c2d3dbf","latency_ms":16}
+{"ts":"2026-10-21T13:55:29.001Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":50}
+{"ts":"2026-10-21T13:55:29.818Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"51723f155c1548b0","latency_ms":25}
+{"ts":"2026-10-21T13:55:31.269Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"b09d99ebb5feedc6","latency_ms":32}
+{"ts":"2026-10-21T13:55:38.267Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5f0a3547436397ed","latency_ms":16}
+{"ts":"2026-10-21T13:55:51.266Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"6fa1f151c5e88042","latency_ms":16}
+{"ts":"2026-10-21T13:55:54.903Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8968832871d5f3b8","latency_ms":19}
+{"ts":"2026-10-21T13:55:59.903Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fdb9d886c6b47fd0","latency_ms":21}
+{"ts":"2026-10-21T13:56:15.762Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b4da4073c13d19c9","latency_ms":16}
+{"ts":"2026-10-21T13:56:15.972Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1b7f6d85b7e21443","latency_ms":26}
+{"ts":"2026-10-21T13:56:29.978Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cc2b1684e0d1d342","latency_ms":16}
+{"ts":"2026-10-21T13:56:31.764Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4687d9010f4c5a7b","latency_ms":28}
+{"ts":"2026-10-21T13:56:34.527Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d155812cb0814a20","latency_ms":18}
+{"ts":"2026-10-21T13:56:39.647Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b43c84e87c09aa00","latency_ms":28}
+{"ts":"2026-10-21T13:56:40.085Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"43d6b77e93d71406","latency_ms":22}
+{"ts":"2026-10-21T13:56:40.562Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c6c00d90533d00a2","latency_ms":16}
+{"ts":"2026-10-21T13:56:41.066Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fe65e63fa7772fb4","latency_ms":13}
+{"ts":"2026-10-21T13:56:49.305Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T13:56:52.968Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"52acd64efc075821","latency_ms":23}
+{"ts":"2026-10-21T13:56:59.722Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ac544d9cd3e6eeaf","latency_ms":14}
+{"ts":"2026-10-21T13:57:05.654Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"522d8a5d4bacb76c","latency_ms":30}
+{"ts":"2026-10-21T13:57:07.483Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"51c59b4d62bd0332","latency_ms":12}
+{"ts":"2026-10-21T13:57:11.042Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a30ca1a21ccc5aed","latency_ms":30}
+{"ts":"2026-10-21T13:57:17.865Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9e6682c0913cd77b","latency_ms":26}
+{"ts":"2026-10-21T13:57:25.582Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d20272762d875852","latency_ms":25}
+{"ts":"2026-10-21T13:57:44.691Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fe3382064aff3650","latency_ms":20}
+{"ts":"2026-10-21T13:57:45.285Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a95995ae526f59b3","latency_ms":22}
+{"ts":"2026-10-21T13:57:45.416Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8a647a84890e698e","latency_ms":24}
+{"ts":"2026-10-21T13:57:48.877Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"70b46e9f5df75c3d","latency_ms":28}
+{"ts":"2026-10-21T13:57:59.851Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:58:10.186Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"60df04e5684dfbe4","latency_ms":12}
+{"ts":"2026-10-21T13:58:15.474Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b389fa55bb7fdf68","latency_ms":23}
+{"ts":"2026-10-21T13:58:34.787Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"400e084710dc9d74","latency_ms":15}
+{"ts":"2026-10-21T13:58:37.838Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0ce879f2b547a7c7","latency_ms":30}
+{"ts":"2026-10-21T13:58:40.853Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f59467145b5e1754","latency_ms":30}
+{"ts":"2026-10-21T13:58:43.691Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"178a32d855762718","latency_ms":12}
+{"ts":"2026-10-21T13:58:49.777Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c3aba8fe707c1851","latency_ms":16}
+{"ts":"2026-10-21T13:58:49.962Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a0436b02ad0bc0fa","latency_ms":14}
+{"ts":"2026-10-21T13:58:53.751Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":15,"pool_size":50}
+{"ts":"2026-10-21T13:58:59.848Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bc9b2e912667c976","latency_ms":21}
+{"ts":"2026-10-21T13:59:00.087Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"03c7fc0cf08559aa","latency_ms":13}
+{"ts":"2026-10-21T13:59:02.019Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":11,"pool_size":50}
+{"ts":"2026-10-21T13:59:08.981Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8efdb472d1c5dd19","latency_ms":24}
+{"ts":"2026-10-21T13:59:10.290Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"00bd2a73afe743b6","latency_ms":20}
+{"ts":"2026-10-21T13:59:10.489Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4b28397ed0db89f8","latency_ms":12}
+{"ts":"2026-10-21T13:59:20.412Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"569b077730deaa08","latency_ms":12}
+{"ts":"2026-10-21T13:59:20.775Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c53b0665e90a211b","latency_ms":28}
+{"ts":"2026-10-21T13:59:24.032Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a8c6884f426780f2","latency_ms":26}
+{"ts":"2026-10-21T13:59:25.400Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"10dfc6d074d8c73a","latency_ms":15}
+{"ts":"2026-10-21T13:59:28.887Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3a351c7af19a3586","latency_ms":15}
+{"ts":"2026-10-21T13:59:39.109Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cd5698ea114d00c7","latency_ms":27}
+{"ts":"2026-10-21T13:59:59.425Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e45576aa9430a655","latency_ms":14}
+{"ts":"2026-10-21T14:00:04.938Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0a57b66964d9f2c1","latency_ms":26}
+{"ts":"2026-10-21T14:00:13.986Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"13095bc51352ef5f","latency_ms":17}
+{"ts":"2026-10-21T14:00:16.222Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T14:00:28.091Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ffa935cf89615d94","latency_ms":21}
+{"ts":"2026-10-21T14:00:30.203Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"70825aab0b7b9b39","latency_ms":19}
+{"ts":"2026-10-21T14:00:32.423Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"17bab4e0d1167ecc","latency_ms":19}
+{"ts":"2026-10-21T14:00:33.091Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bd45fe94ff125336","latency_ms":20}
+{"ts":"2026-10-21T14:00:34.425Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b7c3a199ddc7559a","latency_ms":20}
+{"ts":"2026-10-21T14:00:45.441Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ff4781ded2678f24","latency_ms":16}
+{"ts":"2026-10-21T14:00:48.442Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"11e9d20eb23eb34c","latency_ms":13}
+{"ts":"2026-10-21T14:00:51.446Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"35137f9d9ae63c4e","latency_ms":29}
+{"ts":"2026-10-21T14:00:55.470Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8932948e61f88099","latency_ms":19}
+{"ts":"2026-10-21T14:01:03.408Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a82f9928557cf4b7","latency_ms":14}
+{"ts":"2026-10-21T14:01:08.618Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"efc922581da80b64","latency_ms":19}
+{"ts":"2026-10-21T14:01:10.245Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"52124f96d6a8145c","latency_ms":16}
+{"ts":"2026-10-21T14:01:27.028Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"dca25adf1ec82e85","latency_ms":22}
+{"ts":"2026-10-21T14:01:27.516Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3ed1c1270616e502","latency_ms":20}
+{"ts":"2026-10-21T14:01:32.651Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5210e2620ade268c","latency_ms":23}
+{"ts":"2026-10-21T14:01:37.561Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"28a9b3ae69ae22d7","latency_ms":29}
+{"ts":"2026-10-21T14:01:42.586Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"97c8d39dded52ab5","latency_ms":15}
+{"ts":"2026-10-21T14:01:42.669Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":6,"pool_size":50}
+{"ts":"2026-10-21T14:01:55.724Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"aa8be9c08dff36c0","latency_ms":24}
+{"ts":"2026-10-21T14:02:12.347Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"03ad2ca8d2a4a8e0","latency_ms":34}
+{"ts":"2026-10-21T14:02:12.674Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"655e6dbcb9d110f8","latency_ms":27}
+{"ts":"2026-10-21T14:02:12.808Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"aab7df9aae8d1dec","latency_ms":57}
+{"ts":"2026-10-21T14:02:17.513Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5893999fad9b23b6","latency_ms":84}
+{"ts":"2026-10-21T14:02:17.777Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5dc9a0f92f999eca","latency_ms":76}
+{"ts":"2026-10-21T14:02:22.557Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"46dcbabdf3f91b93","latency_ms":68}
+{"ts":"2026-10-21T14:02:24.926Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2ad74095a3feef93","latency_ms":75}
+{"ts":"2026-10-21T14:02:41.587Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":3,"pool_size":5}
+{"ts":"2026-10-21T14:02:46.301Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f881098a5f21b2ae","latency_ms":70}
+{"ts":"2026-10-21T14:02:47.136Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8a73e3be6f75b4f6","latency_ms":35}
+{"ts":"2026-10-21T14:03:04.611Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e0cc87c63b90ec36","latency_ms":291}
+{"ts":"2026-10-21T14:03:05.691Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f70765242e6a11e3","latency_ms":360}
+{"ts":"2026-10-21T14:03:16.267Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d7b4f5ff9b6c4eeb","latency_ms":497}
+{"ts":"2026-10-21T14:03:19.153Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7eec1ead4dee480e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:19.690Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7eec1ead4dee480e","latency_ms":541}
+{"ts":"2026-10-21T14:03:23.199Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"0a1d487f3e2e6f67","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:23.844Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0a1d487f3e2e6f67","latency_ms":646}
+{"ts":"2026-10-21T14:03:31.629Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"b4febb1ab4b035c1","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:32.359Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b4febb1ab4b035c1","latency_ms":735}
+{"ts":"2026-10-21T14:03:45.596Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"0fce04abc697baf6","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:46.520Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0fce04abc697baf6","latency_ms":928}
+{"ts":"2026-10-21T14:03:50.045Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e460f02303c976c3","latency_ms":942}
+{"ts":"2026-10-21T14:03:50.701Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"5f5005d68fa6e3ec","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:51.718Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"5f5005d68fa6e3ec","latency_ms":1020}
+{"ts":"2026-10-21T14:03:52.791Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"c07935e4462e754e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:03:53.849Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"c07935e4462e754e","latency_ms":1060}
+{"ts":"2026-10-21T14:03:57.161Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"45aba7b1b9d83b53","latency_ms":1094}
+{"ts":"2026-10-21T14:03:59.172Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:10.820Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"8d656e65df6980b5","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:12.315Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"8d656e65df6980b5","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:13.620Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"4262e4227b2c502d","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:14.780Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"4262e4227b2c502d","latency_ms":1164}
+{"ts":"2026-10-21T14:04:18.008Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"ee3067b8bb67fbe3","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:19.507Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"ee3067b8bb67fbe3","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:19.711Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"a63c311244bf4a3a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:34.548Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7b03443893296d46","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:36.081Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8faf0d74a68dd2b2","latency_ms":1412}
+{"ts":"2026-10-21T14:04:38.061Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"386a7949542e5ac1","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:39.557Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"386a7949542e5ac1","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:39.786Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fe9df2c9b6b68496","latency_ms":967}
+{"ts":"2026-10-21T14:04:42.581Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"88050e45b9e9fb9d","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:04:46.180Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:00.751Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7326af58ec360873","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:04.317Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"e43d5b090f1b9cc3","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:20.434Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"ff3d78406c88171e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:21.933Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"ff3d78406c88171e","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:26.563Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"68e8351cdba76027","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:27.134Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"a06ead3d5c7c39f6","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:28.349Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"35c2698aa90393e7","latency_ms":1067}
+{"ts":"2026-10-21T14:05:28.630Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"a06ead3d5c7c39f6","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:29.201Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4b94e92785073443","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:34.210Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:40.774Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"cd64d5c1d4a03833","latency_ms":1326}
+{"ts":"2026-10-21T14:05:49.702Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"3f98a1401eb8fbb1","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:51.197Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3f98a1401eb8fbb1","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:52.486Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e4254502d898f178","latency_ms":1005}
+{"ts":"2026-10-21T14:05:54.058Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"9422f18a6f369de1","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:05:59.942Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"16f44bfa6c71d05b","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:09.034Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"a32c68d04ada07ae","latency_ms":1218}
+{"ts":"2026-10-21T14:06:11.515Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"d89269ec1241c92e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:13.011Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"d89269ec1241c92e","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:19.099Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"e3cbd53496751f48","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:20.598Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"e3cbd53496751f48","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:21.296Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7fac4d7b3148ba2a","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:22.795Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7fac4d7b3148ba2a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:26.121Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e81287163f0eb9b7","latency_ms":1098}
+{"ts":"2026-10-21T14:06:31.314Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:32.528Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"31d5945086850740","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:50.221Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"1e887fee232296b7","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:50.792Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7e4f305d8dc1fe7e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:52.287Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7e4f305d8dc1fe7e","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:53.364Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"694ce33195e7000b","latency_ms":1015}
+{"ts":"2026-10-21T14:06:56.670Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"b70d89fe2eea1ffc","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:06:56.841Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"82ffb6321c2bf0e6","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:08.651Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:19.392Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"3e9145db1ef8292a","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:20.329Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3e9145db1ef8292a","latency_ms":938}
+{"ts":"2026-10-21T14:07:28.369Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"67c5347e0821cc53","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:29.521Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"31741a6e5e5c33b7","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:29.868Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"67c5347e0821cc53","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:31.020Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"31741a6e5e5c33b7","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:31.563Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"88de6b4123f9121b","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:40.524Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2285fa467ff997f8","latency_ms":1104}
+{"ts":"2026-10-21T14:07:44.006Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"492dd34a8e438782","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:45.098Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"492dd34a8e438782","latency_ms":1095}
+{"ts":"2026-10-21T14:07:49.742Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"30c5bd9da048d746","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:50.037Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"3ae8479cb1861b1d","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:50.571Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"56e7cf4099246dae","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:07:51.534Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3ae8479cb1861b1d","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:06.200Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8be342277997e4ac","latency_ms":1027}
+{"ts":"2026-10-21T14:08:09.613Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"ea49948d4a264cec","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:11.112Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"ea49948d4a264cec","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:13.020Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7376a99c32ef77a7","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:14.515Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7376a99c32ef77a7","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:15.570Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"bbad2ddf2b119717","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:16.194Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"d552f078e0e1edeb","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:17.690Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"d552f078e0e1edeb","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:18.776Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"63732865cbff4e37","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:20.275Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"63732865cbff4e37","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:27.247Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"3e7e712d901bff1a","latency_ms":1326}
+{"ts":"2026-10-21T14:08:41.412Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:50.082Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"bc6d5b5566c3312f","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:51.950Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"28361898fd5d5102","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:52.707Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"f028abf4bf500137","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:08:53.885Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f028abf4bf500137","latency_ms":1179}
+{"ts":"2026-10-21T14:09:05.706Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"e79cb5f7349cda1a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:15.471Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"787d10dd62af2ddf","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:22.116Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7392d78bec919190","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:23.180Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"df82b1cdcfc73bbb","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:23.436Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"988ec18a9e189204","latency_ms":1349}
+{"ts":"2026-10-21T14:09:24.679Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"df82b1cdcfc73bbb","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:26.026Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"a5a172b3dcf7997e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:27.522Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"a5a172b3dcf7997e","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:34.128Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:36.428Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4fe510144914e1b0","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:39.143Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"d5f3d307d5a5504c","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:40.522Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d5f3d307d5a5504c","latency_ms":1382}
+{"ts":"2026-10-21T14:09:41.553Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"77cd067a319dd9e8","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:44.359Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"cc12aef026fa72e7","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:54.983Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"9dfd0b2b7c3ad33f","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:09:56.190Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"9dfd0b2b7c3ad33f","latency_ms":1210}
+{"ts":"2026-10-21T14:10:07.122Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"32c7db7c78a79935","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:17.019Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"84551c337b53f5d2","latency_ms":31}
+{"ts":"2026-10-21T14:10:23.354Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3299e9dbadbd1396","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:23.492Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"8b04653d1305a5e7","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:24.549Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8b04653d1305a5e7","latency_ms":1061}
+{"ts":"2026-10-21T14:10:36.469Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4b1e4c9133aa2613","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:36.918Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3f9aa9d17a476758","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:39.147Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"0b9b0791e451d0a8","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:45.838Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"141007692d35ffb8","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:46.430Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"52ddebf989645940","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:46.894Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"141007692d35ffb8","latency_ms":1059}
+{"ts":"2026-10-21T14:10:47.452Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"52ddebf989645940","latency_ms":1026}
+{"ts":"2026-10-21T14:10:50.241Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:57.794Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"8fc31b3109052a0d","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:57.973Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"eaf02c49cc15379f","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:10:59.472Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"eaf02c49cc15379f","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:04.394Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"96e73613a49b9384","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:07.609Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"756a82811b6dbe71","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:09.108Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"756a82811b6dbe71","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:14.985Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"2938e178ea34619c","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:15.602Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"1c164fa7579112fb","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:17.100Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"1c164fa7579112fb","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:19.904Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"f7a8484d344a06c1","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:19.933Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"6d044d92fd5f9e8c","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:20.905Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"f7a8484d344a06c1","latency_ms":1002}
+{"ts":"2026-10-21T14:11:27.273Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4d99d3489ffba42c","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:35.910Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"73dba2b393414009","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:39.943Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"d026ccdf0edd8619","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:40.934Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d026ccdf0edd8619","latency_ms":992}
+{"ts":"2026-10-21T14:11:55.782Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"2bc77e5b712ae652","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:11:57.045Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2bc77e5b712ae652","latency_ms":1268}
+{"ts":"2026-10-21T14:11:58.130Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:06.647Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"d358379d6a010020","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:07.122Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2cf7fed3669bbc05","latency_ms":905}
+{"ts":"2026-10-21T14:12:07.597Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d358379d6a010020","latency_ms":951}
+{"ts":"2026-10-21T14:12:07.952Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"07652d0a810399ad","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:08.960Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"74af7caead598b55","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:19.098Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7b8dd3a9b76ce5df","latency_ms":1122}
+{"ts":"2026-10-21T14:12:32.348Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:32.423Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"fda9ca95b8e7372e","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:33.919Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"fda9ca95b8e7372e","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:45.206Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"0c8adc8ed5c08cac","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:46.704Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"0c8adc8ed5c08cac","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:50.857Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"f78d73d72e68cbbc","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:53.617Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"00facf9ac5ef3048","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:55.114Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"00facf9ac5ef3048","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:12:57.694Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"e2a5d06e2a592b74","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:00.744Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"c5db8ea1e384334a","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:02.240Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"c5db8ea1e384334a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:03.018Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"2a1db7e608a8e393","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:04.514Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"2a1db7e608a8e393","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:04.823Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"0608a5686d7f5aff","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:06.269Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"617b721a06f38eae","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:07.767Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"617b721a06f38eae","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:12.960Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"778f1cff08afa62a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:13.806Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"fb5d1d257d464f25","latency_ms":977}
+{"ts":"2026-10-21T14:13:25.101Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7659e76d23cb67a1","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:26.597Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7659e76d23cb67a1","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:33.797Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:33.814Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"a9bbd53e956cb038","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:35.979Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"1b65e5b4833d2014","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:13:37.179Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"1b65e5b4833d2014","latency_ms":1204}
+{"ts":"2026-10-21T14:13:37.793Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"bc8f8fb14d3064ee","latency_ms":1210}
+{"ts":"2026-10-21T14:14:02.531Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"beca65da1baf8f1b","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:04.028Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"beca65da1baf8f1b","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:07.009Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:11.320Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"285dcbaf8c06b741","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:12.476Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"285dcbaf8c06b741","latency_ms":1161}
+{"ts":"2026-10-21T14:14:15.589Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"2c9be38eda691162","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:17.277Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"f61250d2ce709ff0","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:19.923Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"5a66f3df75842ccf","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:20.491Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4fb51317ba17216a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:21.349Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"baa627d87a382525","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:22.848Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"baa627d87a382525","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:45.885Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"9f0eea6ea8a6bfb1","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:50.472Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"764e0c910b383887","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:51.417Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"8722bf71dc3feb8d","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:51.969Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"764e0c910b383887","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:14:52.657Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8722bf71dc3feb8d","latency_ms":1244}
+{"ts":"2026-10-21T14:14:59.951Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"b35011fc4d19e412","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:01.075Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b35011fc4d19e412","latency_ms":1126}
+{"ts":"2026-10-21T14:15:04.033Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"9f1a1053b903a810","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:05.531Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"9f1a1053b903a810","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:12.132Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"97fce50f56c8f625","latency_ms":1227}
+{"ts":"2026-10-21T14:15:13.623Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"09bd314f5c5a37cf","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:16.220Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"50b5c3e48d1551eb","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:20.296Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"b89eb82584bac32d","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:21.614Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b89eb82584bac32d","latency_ms":1322}
+{"ts":"2026-10-21T14:15:24.920Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"ca98aa5fc2b823cd","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:26.303Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"ca98aa5fc2b823cd","latency_ms":1385}
+{"ts":"2026-10-21T14:15:26.509Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"daf15bd6f21975e0","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:36.406Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:46.665Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"e7963af0ff7b8afb","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:56.497Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"55477953181cd427","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:15:57.712Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3f0638e86d55e620","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:02.970Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7563924d1d67e164","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:03.961Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"7563924d1d67e164","latency_ms":995}
+{"ts":"2026-10-21T14:16:14.616Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"20ea9b55d0c1d860","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:15.803Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"20ea9b55d0c1d860","latency_ms":1188}
+{"ts":"2026-10-21T14:16:22.199Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"b1f4eabf786727db","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:23.830Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"eeda8f48988c8186","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:24.720Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"d135522d6325550f","latency_ms":1013}
+{"ts":"2026-10-21T14:16:25.326Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"eeda8f48988c8186","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:30.079Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"7c4c7955a64adc19","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:31.576Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"7c4c7955a64adc19","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:39.402Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"aac9ca0172c436c2","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:39.467Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"d70a047b72874737","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:42.712Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"a27d54cd9738fcd5","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:43.409Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:16:44.208Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"a27d54cd9738fcd5","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:06.702Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"371923e34cafbcd4","latency_ms":1144}
+{"ts":"2026-10-21T14:17:11.017Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"f232daeb5606671c","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:11.276Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"b9af19bb5ba5367c","latency_ms":1114}
+{"ts":"2026-10-21T14:17:12.514Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"f232daeb5606671c","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:16.799Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:25.661Z","service":"payments","level":"error","msg":"fraud check returned malformed response","trace_id":"4f938eaf6defe95b","latency_ms":57}
+{"ts":"2026-10-21T14:17:30.280Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"aff8dca1e314837f","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:36.249Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4ca7b3527bef4d8c","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:36.795Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3af62c65cf7cd3d3","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:47.205Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"080fc7202a877116","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:51.231Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"19ca352a16901870","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:54.298Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"dbaa6ab2e97f4807","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:56.349Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"085a59f1fafd82eb","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:17:57.656Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"085a59f1fafd82eb","latency_ms":1312}
+{"ts":"2026-10-21T14:18:11.655Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"8f342c73292917c6","latency_ms":1348}
+{"ts":"2026-10-21T14:18:16.543Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"6343f7682d1c9875","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:18.038Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"6343f7682d1c9875","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:19.353Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"ca3ab5dbce4e8500","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:20.851Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"ca3ab5dbce4e8500","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:38.417Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"c895957620b8be3b","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:39.916Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"c895957620b8be3b","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:44.849Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:53.294Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"0f23fc599ddb5429","latency_ms":930}
+{"ts":"2026-10-21T14:18:54.753Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"4944d4139ac32293","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:56.248Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"4944d4139ac32293","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:58.395Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"3a8a55fa6b38c24d","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:18:59.533Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"e5afedaba854925e","latency_ms":1431}
+{"ts":"2026-10-21T14:18:59.985Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"623fd8c3a2c337cf","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:06.344Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"548a7f5854501763","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:07.843Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"548a7f5854501763","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:09.984Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"431de9104376f58a","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:17.490Z","service":"payments","level":"info","msg":"pool stats","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:19.908Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"5397b431f8aedf04","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:21.405Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"5397b431f8aedf04","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:27.595Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"bea95a1f97dbbb3d","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:29.091Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"bea95a1f97dbbb3d","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:32.020Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"717a9fb7d3c18524","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:33.515Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"717a9fb7d3c18524","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:36.558Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"24ef1d1e9fa9fe06","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:37.501Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"6229047078195999","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:38.053Z","service":"payments","level":"error","msg":"connection pool exhausted, waited 1500ms","trace_id":"24ef1d1e9fa9fe06","latency_ms":1500,"pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:45.397Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"761cf43c85a13fac","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:46.362Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"761cf43c85a13fac","latency_ms":968}
+{"ts":"2026-10-21T14:19:48.938Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2d943f91d940752b","latency_ms":1112}
+{"ts":"2026-10-21T14:19:50.462Z","service":"payments","level":"warn","msg":"connection pool near capacity","trace_id":"2b790333500b0ef3","pool_in_use":5,"pool_size":5}
+{"ts":"2026-10-21T14:19:51.843Z","service":"payments","level":"info","msg":"charge succeeded","trace_id":"2b790333500b0ef3","latency_ms":1384}

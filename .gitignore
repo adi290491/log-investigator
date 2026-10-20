@@ -1,0 +1,4 @@
+.env
+bin/
+compare/python/.venv/
+__pycache__/
