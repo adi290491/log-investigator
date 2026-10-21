@@ -114,13 +114,15 @@ func (a *Agent) runTurn(ctx context.Context, conversation []anthropic.MessagePar
 		if message.StopReason != anthropic.StopReasonToolUse {
 			return conversation, nil
 		}
+
+		conversation = append(conversation, anthropic.NewUserMessage(toolResult...))
 	}
 }
 
 func (a *Agent) runInference(ctx context.Context, conversation []anthropic.MessageParam) (*anthropic.Message, error) {
 	message, err := a.client.Messages.New(ctx, anthropic.MessageNewParams{
-		Model:     anthropic.ModelClaudeSonnet4_6,
-		MaxTokens: int64(1024),
+		Model:     MODEL,
+		MaxTokens: int64(MaxTokens),
 		System:    []anthropic.TextBlockParam{{Text: systemPrompt}},
 		Tools:     a.tools,
 		Messages:  conversation,

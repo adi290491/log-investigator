@@ -6,6 +6,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
+	"io/fs"
 	"log-investigator/agent"
 	"log-investigator/mcp"
 
@@ -54,8 +55,8 @@ func main() {
 		log.Fatal(err)
 	}
 
-	agent := agent.NewAgent(&client, session, tools, stdinReader())
-	if err := agent.Run(ctx); err != nil {
+	investigator := agent.NewAgent(&client, session, tools, stdinReader())
+	if err := investigator.Run(ctx); err != nil {
 		log.Fatalf("Error: %v", err)
 	}
 
@@ -73,8 +74,9 @@ func stdinReader() func() (string, bool) {
 
 func loadAPIKey() (string, error) {
 
-	if err := godotenv.Load(); err != nil {
-		return "", fmt.Errorf("Error loading .env file: %w", err)
+	// .env is optional; ANTHROPIC_API_KEY may already be set in the environment.
+	if err := godotenv.Load(); err != nil && !errors.Is(err, fs.ErrNotExist) {
+		return "", fmt.Errorf("load .env: %w", err)
 	}
 
 	apiKey := os.Getenv("ANTHROPIC_API_KEY")
