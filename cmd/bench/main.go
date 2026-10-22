@@ -1,16 +1,3 @@
-// Command bench measures MCP servers over stdio with the go-sdk client.
-//
-// For each -server, it runs the workload -runs times, discards the first run
-// (warm-up), and reports median, min and max of:
-//
-//   - cold start: process spawn until tools/list returns
-//   - workload:   process spawn, initialize, tools/list, then -calls error_summary calls
-//   - calls only: the -calls error_summary calls alone
-//   - peak RSS:   max of `ps -o rss= -p <pid>` sampled every 20ms
-//
-// Usage:
-//
-//	bench -server "go=bin/server" -server "python=compare/python/.venv/bin/python compare/python/server.py"
 package main
 
 import (
